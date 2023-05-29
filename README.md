@@ -1,18 +1,18 @@
-# GSERM 2023 Deep Learning: Fundamentals and Applications
+# GSERM 2023 Deep Learning: Fundamentals and Applications 🏔️
 
 ![Course Banner](banner.png)
 
-Welcome to our GSERM course **Deep Learning: Fundamentals and Applications**, taught by **Prof. Dr. Damian Borth** and **Prof. Dr. Korbinan Riedhammer**.  In this course, theoretical sessions and practical hands-on coding lab sessions alternate to provide a better learning experience. 
+Grüezi! 🖐️ Welcome to our GSERM course **Deep Learning: Fundamentals and Applications**, taught by **Prof. Dr. Damian Borth** and **Prof. Dr. Korbinian Riedhammer**. In this course, theoretical sessions and practical hands-on coding lab sessions alternate to provide a better learning experience. 
 
-The guided coding labs will be thaught by **Marco Schreyer**. The lab materials for Python programming, Machine Learning und Deep Learning are available in and accessible through this repository.
+The guided coding labs will be taught by **Marco Schreyer**. The lab materials for Python programming, Machine Learning, and Deep Learning are available in and accessible through this GitHub repository.
 
-Please use a laptop computer for the lab courses (not a tablet) to be able to fully participate in the labs.
+Please use a laptop computer (not a tablet) for the lab courses to fully participate.
 
-Happy Coding!
+Viel Spass beim Programmieren! 🎉 (Happy Coding!)
 
-## Course Logistics
+## Course Logistics 🗓️
 
-- **Lectures:** Daily 09:15-12:30 CET, Zoom links are posted on Canvas.
+- **Lectures:** Daily 09:15-12:30 CET ⏰ , Zoom links are posted on Canvas.
 - **Labs:** Daily 13:30-15:15 CET, Zoom links are posted on Canvas.
 - **Zoom Videos:** Will be posted on Canvas shortly after each lecture/lab.
 - **Office Hours:** Daily 16:00-17:00 CET, please send us a corresponding invitation via mail.
@@ -20,7 +20,7 @@ Happy Coding!
 
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-The following table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. In order to start the notebooks in the respective cloud environment just click on the to corresponding launchers. We aim to upload each lab notebook the day before the lab respectively.
+Just like the timetable of the Swiss Federal Railways 🚞, the following table lists all lab sessions including the launchers of the corresponding notebooks 📚 . In order to start the notebooks in the respective cloud environment, click on the corresponding launchers. We aim to upload each lab notebook the day before the lab respectively.
 
 | Date            | Lab           | Topic                 | Description          |  Binder Notebook  | Colab Notebook    | 
 |:----------------|:--------------|:----------------------|:-------------------------|:-----------------:|:-----------------:|
@@ -38,10 +38,10 @@ The following table lists all lab session and coding challenge session incl. the
 | Fri, June 9th |  Lab 08 |  Deep Learning    | Attention Neural Networks | tba | tba |
 | < Sun, July xxth |  - |  Deep Learning    | Assignment | tba | tba |
 
-Launch all lab notebooks in either [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2023-Lab/main) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2023-Lab/blob/main/).
+You can also board the train to the labs by launching all lab notebooks in either [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/GSERM2023-Lab/main) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/GSERM2023-Lab/blob/main/).
 
 ## Questions?
 
-Pls. don't hesitate to send us all your questions using the course mail address: 
+Please don't hesitate to send us all your questions using the course mail address: 
 
 ![Course E-mail](https://github.com/HSG-AIML/LabGSERM/blob/main/course_email.png)
